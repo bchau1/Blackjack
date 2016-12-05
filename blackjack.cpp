@@ -1,4 +1,3 @@
-//Team Name: KBE
 
 #include <iostream>
 #include <cstdlib>
